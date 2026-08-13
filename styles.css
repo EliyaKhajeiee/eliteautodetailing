@@ -297,7 +297,7 @@ p{margin:0 0 1em}
 
 /* ---------- Responsive ---------- */
 @media (max-width:960px){
-  .nav-links,.nav-phone{display:none}
+  .nav-links,.nav-cta{display:none}
   .hamburger{display:block}
   .hero-grid{grid-template-columns:1fr;gap:44px}
   .hero-media{max-width:460px}
